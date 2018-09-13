@@ -1,0 +1,27 @@
+_repo: Boy-of-My-Heart_51437
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Leighton, Marie Connor
+    aliases:
+    - Leighton, M. C. (Marie Connor)
+    - Connor, Marie
+    deathdate: 1941
+    gutenberg_agent_id: '46410'
+    url: http://www.gutenberg.org/2009/agents/46410
+description: ''
+gutenberg_issued: '2016-03-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51437'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Gift books'
+- !lcsh 'World War, 1914-1918 -- Miscellanea'
+- GITenberg
+title: Boy of My Heart
+url: http://www.gutenberg.org/ebooks/51437
